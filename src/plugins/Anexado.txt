@@ -1,0 +1,7 @@
+vue add vuetify
+vue add router
+
+npm install -S vue-sweetalert2
+npm install vue-color
+npm install vuetify-coloring
+npm install vuelidate --save
