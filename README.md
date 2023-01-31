@@ -29,3 +29,10 @@ npm install (nombre del paquete que informe la consola)
 
 DOCUMENTACION SOLO ACCESO PARA LOS INTEGRADOS EN LA CARPETA
 https://drive.google.com/drive/folders/1Y7_Ay7g9Oyey_xpOTktpIJQ-vlfGeOa-?usp=share_link
+
+
+
+
+CAPTURAS DE APLICACION 
+
+![image](https://user-images.githubusercontent.com/48330249/215867526-487edf71-5cad-4086-934a-cb91796a9fb4.png)
