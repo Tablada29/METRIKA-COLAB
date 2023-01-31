@@ -35,4 +35,33 @@ https://drive.google.com/drive/folders/1Y7_Ay7g9Oyey_xpOTktpIJQ-vlfGeOa-?usp=sha
 
 CAPTURAS DE APLICACION 
 
+Registro de Usuario 
+
+![image](https://user-images.githubusercontent.com/48330249/215867851-626cee11-3149-494e-9a00-89bd01b171bf.png)
+
+
+![image](https://user-images.githubusercontent.com/48330249/215867826-0516a2e8-7bee-4923-9035-19db33564eb7.png)
+
+
+Inicio de Sesion 
+
+![image](https://user-images.githubusercontent.com/48330249/215867729-546917df-9648-48bb-92f8-53662afd4f72.png)
+
+
+INICIO 
+![image](https://user-images.githubusercontent.com/48330249/215867968-4eb6a797-8bc9-42a5-8df8-32c4e037645e.png)
+
+
+![image](https://user-images.githubusercontent.com/48330249/215867995-69d07c0e-7d30-40f6-8380-ce7869337c72.png)
+
+MIS APORTES (Proyectos Asociados al Usuario)
+![image](https://user-images.githubusercontent.com/48330249/215868191-dfe80346-5e95-48f6-bb79-face906b46db.png)
+
+![image](https://user-images.githubusercontent.com/48330249/215868039-5f7fd734-5cdc-40db-8230-ecb84e8f3845.png)
+
+![image](https://user-images.githubusercontent.com/48330249/215868136-eb71ad55-d436-4a83-bb0f-8872da0483f0.png)
+
+![image](https://user-images.githubusercontent.com/48330249/215868157-c48d3c32-5e6d-425a-bff0-c9bab310892d.png)
+
+
 ![image](https://user-images.githubusercontent.com/48330249/215867526-487edf71-5cad-4086-934a-cb91796a9fb4.png)
